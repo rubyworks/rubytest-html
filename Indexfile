@@ -1,0 +1,32 @@
+---
+name:
+  rubytest-html
+
+version: 
+  0.1.0
+
+title:
+  HTML Test Reporter
+
+summary:
+  HTML format for Rubytest
+
+description:
+  This is an HTML test report format for the Rubytest metaframework.
+
+resources:
+  home: http://rubyworks.github.com/rubytest-html
+  code: http://github.com/rubyworks/rubytest-html
+  mail: http://groups.google.com/group/rubyworks-mailinglist
+
+repositories:
+  upstream: git@github.com:rubyworks/rubytest-html.git
+
+authors:
+  - trans <transfire@gmail.com>
+
+created: 2011-07-23
+
+copyrights:
+  - 2011 RubyWorks (BSD-2-Clause)
+
